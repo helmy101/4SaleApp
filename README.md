@@ -17,3 +17,9 @@
 5. Connect you android device to you PC.
 6. Run TestRunner file under Project root > src/test/java/runner/TestRunner.java
 7. (Optional) Change tag in line 16 in src/test/java/Runner/TestRunner.java to another tag if you want to run a specific test case if you add another.
+
+**Screen Record for the Run**
+
+
+https://github.com/helmy101/4SaleApp/assets/115474042/0ac39845-1657-4754-8fa7-a5844a2a6cdb
+
