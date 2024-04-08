@@ -1,4 +1,4 @@
-# 4Sale mobile aplication
+# 4Sale Mobile Aplication
 
 **Installation (pre-requisites)**
 
